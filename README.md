@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there!**I’m Ranjith**, a final-year Computer Science undergraduate with hands-on experience building full-stack web applications. I focus on developing reliable, real-world solutions using modern web technologies, with strong interest in backend development, authentication, and real-time systems. I enjoy learning by building and continuously improving my projects.🧠 <br><br>
-Skills :- <br>  Languages: JavaScript, Java, SQL <br> Frontend  Development: HTML, CSS, React  <br> Backend Development: Node.js, Express.js  <br> Databases: MongoDB, PostgreSQL,Authentication & APIs: REST APIs, JWT, Role-based access <br>Real-Time Systems: Socket.IO <br>Tools &Platforms: Git, GitHub, Postman, Vercel, Render
+# 📊Skills :- <br>  Languages: JavaScript, Java, SQL <br> Frontend  Development: HTML, CSS, React  <br> Backend Development: Node.js, Express.js  <br> Databases: MongoDB, PostgreSQL,Authentication & APIs: REST APIs, JWT, Role-based access <br>Real-Time Systems: Socket.IO <br>Tools &Platforms: Git, GitHub, Postman, Vercel, Render
 
 
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjithreddy.work@gmail.com) 
